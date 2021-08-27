@@ -11,7 +11,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'impe93',
-  projectName: 'react-native-wind',
+  projectName: 'react-native-wind-docs',
   themeConfig: {
     navbar: {
       title: 'React Native Wind',
