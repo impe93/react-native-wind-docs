@@ -14,7 +14,7 @@ html[data-theme='dark'] .table {
   display: flex;
   flex-wrap: nowrap;
   padding: 0.25rem;
-  border-bottom-color: rgb(221, 221, 221);
+  border-bottom-color: rgb(150, 150, 150, 0.3);
   border-bottom-width: 1px;
   border-bottom-style: solid;
 }
@@ -22,7 +22,7 @@ html[data-theme='dark'] .table {
 .tableHeader {
   width: 100%;
   font-weight: 700;
-  border-bottom-color: #333;
+  border-bottom-color: rgb(150, 150, 150, 0.3);
   border-bottom-width: 1px;
 }
 
