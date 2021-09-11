@@ -12,3 +12,38 @@ import Table from "../../../src/table/Table";
 import elements from "./heightElements"
 
 <Table elements={elements} />
+
+## Customization
+
+:::info
+
+To get an introduction on how customization works, it is recommended to visit the [dedicated page in the documentation](/docs/core/customization)
+
+:::
+
+To customize the classes regarding the height, you go to modify the fields under the property called `sizing`.
+
+```js [title="wind.config.js"]
+import {customize} from 'react-native-wind';
+
+customize({
+  theme: {
+    sizing: {
+      container: 140,
+    },
+  },
+});
+```
+
+The library will automatically generate classes for height and width called in this way:
+
+- `w-container`
+- `h-container`
+
+Both will have a value of 140
+
+:::note
+
+Adding a property to sizing will always add a class to both height and width because they both refer to the same general values
+
+:::
