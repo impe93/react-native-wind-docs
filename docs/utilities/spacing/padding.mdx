@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Padding
@@ -12,3 +12,39 @@ import Table from "../../../src/table/Table";
 import elements from "./paddingElements"
 
 <Table elements={elements} />
+
+## Customization
+
+:::info
+
+To get an introduction on how customization works, it is recommended to visit the [dedicated page in the documentation](/docs/core/customization)
+
+:::
+
+To customize the classes regarding the padding, you go to modify the fields under the property called `spacing`.
+
+```js [title="wind.config.js"]
+import {customize} from 'react-native-wind';
+
+customize({
+  theme: {
+    spacing: {
+      container: 23,
+    },
+  },
+});
+```
+
+The library will automatically generate classes for margin and padding called in this way:
+
+- `m-container` (and all other margin classes for every position prefixed like `mt` `mb`...)
+- `p-container` (and all other padding classes for every position prefixed like `pt` `pb`...)
+
+All generated classes will have a value of 23
+
+:::note
+
+Adding a property to spacing will always add a class to both margin and padding because they both refer to the same general values
+
+:::
+
