@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'React Native Wind',
   tagline: 'A utility-first style library for React Native strongly inspired by TailwindCSS',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://reactnativewind.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -70,7 +70,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/impe93/react-native-wind-docs/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
