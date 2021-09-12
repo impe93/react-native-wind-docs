@@ -1,0 +1,35 @@
+.table {
+  width: 100%;
+  max-width: 100%;
+  max-height: 30rem;
+  color: #333;
+  overflow-y: scroll;
+}
+
+html[data-theme='dark'] .table {
+  color: #fff;
+}
+
+.line {
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 0.25rem;
+  border-bottom-color: rgb(150, 150, 150, 0.3);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+
+.tableHeader {
+  width: 100%;
+  font-weight: 700;
+  border-bottom-color: rgb(150, 150, 150, 0.3);
+  border-bottom-width: 1px;
+}
+
+.classUtility {
+  color: var(--ifm-color-primary)
+}
+
+.code {
+  font-family: monospace;
+}
