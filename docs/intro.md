@@ -50,7 +50,6 @@ What **React Native Wind** wants to achieve is to **remain more related to React
 - No dependency on TailwindCSS
 - Own library documentation
 - Convenient features for React Native users
-- Autocomplete of class names
 - Created with React Native in mind and not a port from the web
 - More control over features and the library
 
@@ -59,10 +58,11 @@ What **React Native Wind** wants to achieve is to **remain more related to React
 React Native Wind is very young and there is a lot of work to do, these are our priorities in order:
 
 1. Classes that cover basic cases
-2. Variants based on the user's operating system
-3. Variants based on user theme
-4. Specific classes based on React Native APIs
-5. Complex components to develop parts of UI that are difficult or impossible to cover on React Native with base classes.
+2. Add more customizations
+3. Variants based on the user's operating system
+4. Variants based on user theme
+5. Variants based on screen width size
+6. Specific classes based on React Native APIs
 
 In conjunction with the development of the points above we will always keep the documentation up to date.
 

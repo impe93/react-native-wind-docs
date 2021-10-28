@@ -9,7 +9,7 @@ export default ({ elements }) => {
         {elements.map((e, i) => {
           return (
             <div key={i} className={clsx(styles.line, styles.code)}>
-              <div className={clsx('f-1', styles.classUtility)}>{e.class}</div>
+              <div className={clsx("f-1", styles.classUtility)}>{e.class}</div>
               <div className="f-2">{e.value}</div>
             </div>
           );
