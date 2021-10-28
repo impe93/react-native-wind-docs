@@ -5,8 +5,6 @@ function buildTextColorElements() {
 
   const textColorsStyle = colorStyleBuilder("text", "color");
 
-  console.log(JSON.stringify(textColorsStyle, undefined, 2));
-
   Object.keys(textColorsStyle).forEach((k) => {
     elements.push({
       class: k,
