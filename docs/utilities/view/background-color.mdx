@@ -1,0 +1,46 @@
+# Background color
+
+Utilities for controlling an element's background color.
+
+## Table of classes
+
+import Table from "../../../src/table/Table";
+import elements from "./backgroundColorElements";
+
+<Table elements={elements} />
+
+## Customization
+
+:::info
+
+To get an introduction on how customization works, it is recommended to visit the [dedicated page in the documentation](/docs/core/customization)
+
+:::
+
+To customize the classes regarding the background colors, you go to modify the fields under the property called `colors`.
+
+```js [title="wind.config.js"]
+import { customize } from "react-native-wind";
+
+customize({
+  theme: {
+    colors: {
+      primary: "#333333",
+      secondary: {
+        light: "#f3f3f3", // Light shade
+        dark: "#212121", // Dark shade
+      },
+    },
+  },
+});
+```
+
+As show in the example block, there are 2 ways to customize colors:
+
+1. Immediatly write the color as the value
+2. Specify an object with shades of that color
+
+The library will automatically generate classes for every other utility that use colors, in the background color case as:
+
+1. The first option with just the color value generate the class `bg-primary`
+2. The second option with the specified shades generate the classes `bg-secondary-light` `bg-secondary-dark`

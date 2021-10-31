@@ -292,7 +292,7 @@ export const colorStyleBuilder = (classPrefix, styleName) => {
       });
     } else {
       styles[`${classPrefix}-${ck}`] = {
-        color: colors[ck],
+        [styleName]: colors[ck],
       };
     }
   });
