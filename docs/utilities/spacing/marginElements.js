@@ -480,195 +480,195 @@ export default [
     value: "{ marginRight: 128 }",
   },
   {
-    class: "mv-0",
+    class: "my-0",
     value: "{ marginVertical: 0 }",
   },
   {
-    class: "mv-0.25",
+    class: "my-0.25",
     value: "{ marginVertical: 1 }",
   },
   {
-    class: "mv-0.5",
+    class: "my-0.5",
     value: "{ marginVertical: 2 }",
   },
   {
-    class: "mv-1",
+    class: "my-1",
     value: "{ marginVertical: 4 }",
   },
   {
-    class: "mv-1.5",
+    class: "my-1.5",
     value: "{ marginVertical: 6 }",
   },
   {
-    class: "mv-2",
+    class: "my-2",
     value: "{ marginVertical: 8 }",
   },
   {
-    class: "mv-2.5",
+    class: "my-2.5",
     value: "{ marginVertical: 10 }",
   },
   {
-    class: "mv-3",
+    class: "my-3",
     value: "{ marginVertical: 12 }",
   },
   {
-    class: "mv-3.5",
+    class: "my-3.5",
     value: "{ marginVertical: 14 }",
   },
   {
-    class: "mv-4",
+    class: "my-4",
     value: "{ marginVertical: 16 }",
   },
   {
-    class: "mv-5",
+    class: "my-5",
     value: "{ marginVertical: 20 }",
   },
   {
-    class: "mv-6",
+    class: "my-6",
     value: "{ marginVertical: 24 }",
   },
   {
-    class: "mv-7",
+    class: "my-7",
     value: "{ marginVertical: 28 }",
   },
   {
-    class: "mv-8",
+    class: "my-8",
     value: "{ marginVertical: 32 }",
   },
   {
-    class: "mv-9",
+    class: "my-9",
     value: "{ marginVertical: 36 }",
   },
   {
-    class: "mv-10",
+    class: "my-10",
     value: "{ marginVertical: 40 }",
   },
   {
-    class: "mv-11",
+    class: "my-11",
     value: "{ marginVertical: 44 }",
   },
   {
-    class: "mv-12",
+    class: "my-12",
     value: "{ marginVertical: 48 }",
   },
   {
-    class: "mv-14",
+    class: "my-14",
     value: "{ marginVertical: 56 }",
   },
   {
-    class: "mv-16",
+    class: "my-16",
     value: "{ marginVertical: 64 }",
   },
   {
-    class: "mv-20",
+    class: "my-20",
     value: "{ marginVertical: 80 }",
   },
   {
-    class: "mv-24",
+    class: "my-24",
     value: "{ marginVertical: 96 }",
   },
   {
-    class: "mv-28",
+    class: "my-28",
     value: "{ marginVertical: 112 }",
   },
   {
-    class: "mv-32",
+    class: "my-32",
     value: "{ marginVertical: 128 }",
   },
   {
-    class: "mh-0",
+    class: "mx-0",
     value: "{ marginHorizontal: 0 }",
   },
   {
-    class: "mh-0.25",
+    class: "mx-0.25",
     value: "{ marginHorizontal: 1 }",
   },
   {
-    class: "mh-0.5",
+    class: "mx-0.5",
     value: "{ marginHorizontal: 2 }",
   },
   {
-    class: "mh-1",
+    class: "mx-1",
     value: "{ marginHorizontal: 4 }",
   },
   {
-    class: "mh-1.5",
+    class: "mx-1.5",
     value: "{ marginHorizontal: 6 }",
   },
   {
-    class: "mh-2",
+    class: "mx-2",
     value: "{ marginHorizontal: 8 }",
   },
   {
-    class: "mh-2.5",
+    class: "mx-2.5",
     value: "{ marginHorizontal: 10 }",
   },
   {
-    class: "mh-3",
+    class: "mx-3",
     value: "{ marginHorizontal: 12 }",
   },
   {
-    class: "mh-3.5",
+    class: "mx-3.5",
     value: "{ marginHorizontal: 14 }",
   },
   {
-    class: "mh-4",
+    class: "mx-4",
     value: "{ marginHorizontal: 16 }",
   },
   {
-    class: "mh-5",
+    class: "mx-5",
     value: "{ marginHorizontal: 20 }",
   },
   {
-    class: "mh-6",
+    class: "mx-6",
     value: "{ marginHorizontal: 24 }",
   },
   {
-    class: "mh-7",
+    class: "mx-7",
     value: "{ marginHorizontal: 28 }",
   },
   {
-    class: "mh-8",
+    class: "mx-8",
     value: "{ marginHorizontal: 32 }",
   },
   {
-    class: "mh-9",
+    class: "mx-9",
     value: "{ marginHorizontal: 36 }",
   },
   {
-    class: "mh-10",
+    class: "mx-10",
     value: "{ marginHorizontal: 40 }",
   },
   {
-    class: "mh-11",
+    class: "mx-11",
     value: "{ marginHorizontal: 44 }",
   },
   {
-    class: "mh-12",
+    class: "mx-12",
     value: "{ marginHorizontal: 48 }",
   },
   {
-    class: "mh-14",
+    class: "mx-14",
     value: "{ marginHorizontal: 56 }",
   },
   {
-    class: "mh-16",
+    class: "mx-16",
     value: "{ marginHorizontal: 64 }",
   },
   {
-    class: "mh-20",
+    class: "mx-20",
     value: "{ marginHorizontal: 80 }",
   },
   {
-    class: "mh-24",
+    class: "mx-24",
     value: "{ marginHorizontal: 96 }",
   },
   {
-    class: "mh-28",
+    class: "mx-28",
     value: "{ marginHorizontal: 112 }",
   },
   {
-    class: "mh-32",
+    class: "mx-32",
     value: "{ marginHorizontal: 128 }",
   },
 ];

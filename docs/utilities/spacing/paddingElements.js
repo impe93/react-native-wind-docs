@@ -480,195 +480,195 @@ export default [
     value: "{ paddingRight: 128 }",
   },
   {
-    class: "pv-0",
+    class: "py-0",
     value: "{ paddingVertical: 0 }",
   },
   {
-    class: "pv-0.25",
+    class: "py-0.25",
     value: "{ paddingVertical: 1 }",
   },
   {
-    class: "pv-0.5",
+    class: "py-0.5",
     value: "{ paddingVertical: 2 }",
   },
   {
-    class: "pv-1",
+    class: "py-1",
     value: "{ paddingVertical: 4 }",
   },
   {
-    class: "pv-1.5",
+    class: "py-1.5",
     value: "{ paddingVertical: 6 }",
   },
   {
-    class: "pv-2",
+    class: "py-2",
     value: "{ paddingVertical: 8 }",
   },
   {
-    class: "pv-2.5",
+    class: "py-2.5",
     value: "{ paddingVertical: 10 }",
   },
   {
-    class: "pv-3",
+    class: "py-3",
     value: "{ paddingVertical: 12 }",
   },
   {
-    class: "pv-3.5",
+    class: "py-3.5",
     value: "{ paddingVertical: 14 }",
   },
   {
-    class: "pv-4",
+    class: "py-4",
     value: "{ paddingVertical: 16 }",
   },
   {
-    class: "pv-5",
+    class: "py-5",
     value: "{ paddingVertical: 20 }",
   },
   {
-    class: "pv-6",
+    class: "py-6",
     value: "{ paddingVertical: 24 }",
   },
   {
-    class: "pv-7",
+    class: "py-7",
     value: "{ paddingVertical: 28 }",
   },
   {
-    class: "pv-8",
+    class: "py-8",
     value: "{ paddingVertical: 32 }",
   },
   {
-    class: "pv-9",
+    class: "py-9",
     value: "{ paddingVertical: 36 }",
   },
   {
-    class: "pv-10",
+    class: "py-10",
     value: "{ paddingVertical: 40 }",
   },
   {
-    class: "pv-11",
+    class: "py-11",
     value: "{ paddingVertical: 44 }",
   },
   {
-    class: "pv-12",
+    class: "py-12",
     value: "{ paddingVertical: 48 }",
   },
   {
-    class: "pv-14",
+    class: "py-14",
     value: "{ paddingVertical: 56 }",
   },
   {
-    class: "pv-16",
+    class: "py-16",
     value: "{ paddingVertical: 64 }",
   },
   {
-    class: "pv-20",
+    class: "py-20",
     value: "{ paddingVertical: 80 }",
   },
   {
-    class: "pv-24",
+    class: "py-24",
     value: "{ paddingVertical: 96 }",
   },
   {
-    class: "pv-28",
+    class: "py-28",
     value: "{ paddingVertical: 112 }",
   },
   {
-    class: "pv-32",
+    class: "py-32",
     value: "{ paddingVertical: 128 }",
   },
   {
-    class: "ph-0",
+    class: "px-0",
     value: "{ paddingHorizontal: 0 }",
   },
   {
-    class: "ph-0.25",
+    class: "px-0.25",
     value: "{ paddingHorizontal: 1 }",
   },
   {
-    class: "ph-0.5",
+    class: "px-0.5",
     value: "{ paddingHorizontal: 2 }",
   },
   {
-    class: "ph-1",
+    class: "px-1",
     value: "{ paddingHorizontal: 4 }",
   },
   {
-    class: "ph-1.5",
+    class: "px-1.5",
     value: "{ paddingHorizontal: 6 }",
   },
   {
-    class: "ph-2",
+    class: "px-2",
     value: "{ paddingHorizontal: 8 }",
   },
   {
-    class: "ph-2.5",
+    class: "px-2.5",
     value: "{ paddingHorizontal: 10 }",
   },
   {
-    class: "ph-3",
+    class: "px-3",
     value: "{ paddingHorizontal: 12 }",
   },
   {
-    class: "ph-3.5",
+    class: "px-3.5",
     value: "{ paddingHorizontal: 14 }",
   },
   {
-    class: "ph-4",
+    class: "px-4",
     value: "{ paddingHorizontal: 16 }",
   },
   {
-    class: "ph-5",
+    class: "px-5",
     value: "{ paddingHorizontal: 20 }",
   },
   {
-    class: "ph-6",
+    class: "px-6",
     value: "{ paddingHorizontal: 24 }",
   },
   {
-    class: "ph-7",
+    class: "px-7",
     value: "{ paddingHorizontal: 28 }",
   },
   {
-    class: "ph-8",
+    class: "px-8",
     value: "{ paddingHorizontal: 32 }",
   },
   {
-    class: "ph-9",
+    class: "px-9",
     value: "{ paddingHorizontal: 36 }",
   },
   {
-    class: "ph-10",
+    class: "px-10",
     value: "{ paddingHorizontal: 40 }",
   },
   {
-    class: "ph-11",
+    class: "px-11",
     value: "{ paddingHorizontal: 44 }",
   },
   {
-    class: "ph-12",
+    class: "px-12",
     value: "{ paddingHorizontal: 48 }",
   },
   {
-    class: "ph-14",
+    class: "px-14",
     value: "{ paddingHorizontal: 56 }",
   },
   {
-    class: "ph-16",
+    class: "px-16",
     value: "{ paddingHorizontal: 64 }",
   },
   {
-    class: "ph-20",
+    class: "px-20",
     value: "{ paddingHorizontal: 80 }",
   },
   {
-    class: "ph-24",
+    class: "px-24",
     value: "{ paddingHorizontal: 96 }",
   },
   {
-    class: "ph-28",
+    class: "px-28",
     value: "{ paddingHorizontal: 112 }",
   },
   {
-    class: "ph-32",
+    class: "px-32",
     value: "{ paddingHorizontal: 128 }",
   },
 ];
